@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://akshatgoel92.github.io',
                 'git_url': 'https://github.com/akshatgoel92/hello-nbdev',
                 'lib_path': 'hello_nbdev'},
-  'syms': {'hello_nbdev.core': {'hello_nbdev.core.foo': ('core.html#foo', 'hello_nbdev/core.py')}}}
+  'syms': { 'hello_nbdev.core': { 'hello_nbdev.core.hello_name': ('core.html#hello_name', 'hello_nbdev/core.py'),
+                                  'hello_nbdev.core.hello_world': ('core.html#hello_world', 'hello_nbdev/core.py')}}}
