@@ -18,7 +18,7 @@ Fill me in please! Don’t forget code examples:
 hello_world()
 ```
 
-    2
+    Hello world!
 
 ``` python
 hello_name('Akshat')
