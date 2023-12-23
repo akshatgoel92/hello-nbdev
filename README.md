@@ -16,14 +16,10 @@ Fill me in please! Don’t forget code examples:
 
 ``` python
 hello_world()
-```
-
-    Hello world!
-
-``` python
 hello_name('Akshat')
 hello_name('Kaavya')
 ```
 
+    Hello world!
     Hello Akshat!
     Hello Kaavya!
