@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello-nbdev",
+    "section": "",
+    "text": "The pip package manager can be used to install hello-nbdev.\npip install hello_nbdev",
+    "crumbs": [
+      "hello-nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "hello-nbdev",
+    "section": "",
+    "text": "The pip package manager can be used to install hello-nbdev.\npip install hello_nbdev",
+    "crumbs": [
+      "hello-nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hello-nbdev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nhello_world()\nhello_name('Akshat')\nhello_name('Kaavya')\n\nHello world!\nHello Akshat!\nHello Kaavya!",
+    "crumbs": [
+      "hello-nbdev"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nhello_world\n\n hello_world ()\n\nSay hello!\n\nsource\n\n\nhello_name\n\n hello_name (name)\n\nSay hello to somebody!\n\nsource\n\n\nHelloSayer\n\n HelloSayer (to)\n\nSay hello to to using say_hello",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
